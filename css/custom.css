@@ -284,9 +284,9 @@ header .header-content .header-content-inner p {
 }
 
 .btn-default {
-    border-color: #767777;
-    color: #222;
-    background-color: #767777;
+    border-color: #4A4A4A;
+    color: #767777;
+    background-color: #4A4A4A;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -298,9 +298,9 @@ header .header-content .header-content-inner p {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-    border-color: #767777;
+    border-color: #4636363;
     color: #767777;
-    background-color: #767777;
+    background-color: #636363;
 }
 
 .btn-default:active,
@@ -337,9 +337,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #767777;
+    border-color: #4A4A4A;
     color: #767777;
-    background-color: #767777;
+    background-color: #4A4A4A;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -351,9 +351,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: #767777;
+    border-color: #636363;
     color: #767777;
-    background-color: #767777;
+    background-color: #636363;
 }
 
 .btn-primary:active,
@@ -425,7 +425,6 @@ img::-moz-selection {
     color: #4A4A4A;
 }
 
-.bg-primary {
-    background-color: yellowgreen;
+.bg-primary {;
     background: linear-gradient(to right, #9BE15D , #00E3AE);
 }
