@@ -298,9 +298,9 @@ header .header-content .header-content-inner p {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-    border-color: #eee;
-    color: #222;
-    background-color: #eee;
+    border-color: #767777;
+    color: #767777;
+    background-color: #767777;
 }
 
 .btn-default:active,
@@ -327,19 +327,19 @@ fieldset[disabled] .btn-default:active,
 .btn-default.disabled.active,
 .btn-default[disabled].active,
 fieldset[disabled] .btn-default.active {
-    border-color: #fff;
-    background-color: #fff;
+    border-color: #767777;
+    background-color: #767777;
 }
 
 .btn-default .badge {
-    color: #fff;
-    background-color: #222;
+    color: #767777;
+    background-color: #767777;
 }
 
 .btn-primary {
-    border-color: yellowgreen;
-    color: #fff;
-    background-color: yellowgreen;
+    border-color: #767777;
+    color: #767777;
+    background-color: #767777;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -351,9 +351,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: limegreen;
-    color: #fff;
-    background-color: limegreen;
+    border-color: #767777;
+    color: #767777;
+    background-color: #767777;
 }
 
 .btn-primary:active,
@@ -380,13 +380,13 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: yellowgreen;
-    background-color: yellowgreen;
+    border-color: #767777;
+    background-color: #767777;
 }
 
 .btn-primary .badge {
-    color: yellowgreen;
-    background-color: #fff;
+    color: #767777;
+    background-color: #767777;
 }
 
 
