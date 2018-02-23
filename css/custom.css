@@ -298,7 +298,7 @@ header .header-content .header-content-inner p {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-    border-color: #4636363;
+    border-color: #4A4A4A;
     color: #767777;
     background-color: #636363;
 }
@@ -327,8 +327,8 @@ fieldset[disabled] .btn-default:active,
 .btn-default.disabled.active,
 .btn-default[disabled].active,
 fieldset[disabled] .btn-default.active {
-    border-color: #767777;
-    background-color: #767777;
+    border-color: #636363;
+    background-color: #636363;
 }
 
 .btn-default .badge {
