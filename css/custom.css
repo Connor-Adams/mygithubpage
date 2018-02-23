@@ -193,15 +193,15 @@ header .header-content .header-content-inner p {
 }
 
 .navbar-default {
-    border-color: rgba(34,34,34,.05);
-    background-color: #fff;
+    border-color: #4A4A4A;
+    background-color: #636363;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: yellowgreen;
+    color: #00#3AE;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -285,7 +285,7 @@ header .header-content .header-content-inner p {
 
 .btn-default {
     border-color: #636363;
-    color: #767777;
+    color: #636363;
     background-color: #636363;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
@@ -299,7 +299,7 @@ header .header-content .header-content-inner p {
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
     border-color: #767777;
-    color: #636363;
+    color: #767777;
     background-color: #767777;
 }
 
