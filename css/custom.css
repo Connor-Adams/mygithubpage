@@ -284,9 +284,9 @@ header .header-content .header-content-inner p {
 }
 
 .btn-default {
-    border-color: #4A4A4A;
+    border-color: #636363;
     color: #767777;
-    background-color: #4A4A4A;
+    background-color: #636363;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -298,9 +298,9 @@ header .header-content .header-content-inner p {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-    border-color: #4A4A4A;
-    color: #767777;
-    background-color: #636363;
+    border-color: #767777;
+    color: #636363;
+    background-color: #767777;
 }
 
 .btn-default:active,
