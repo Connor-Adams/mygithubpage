@@ -27,7 +27,7 @@ header {
     width: 100%;
     min-height: auto;
     text-align: center;
-    background: #00E3Ae; /* For browsers that do not support gradients */
+    background: ../images/"highresLogo.png"/*#00E3Ae;*/ /* For browsers that do not support gradients */
     background: linear-gradient(to bottom left, #9BE15D , #00E3Ae);
     -webkit-background-size: cover;
     -moz-background-size: cover;
