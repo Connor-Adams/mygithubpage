@@ -283,9 +283,9 @@ header .header-content .header-content-inner p {
 }
 
 .btn-default {
-    border-color: #636363;
-    color: #636363;
-    background-color: #636363;
+    border-color: #4A4A4A;
+    color: #4A4A4A;
+    background: linear-gradient(to bottom left, #9BE15D , #00E3Ae);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
