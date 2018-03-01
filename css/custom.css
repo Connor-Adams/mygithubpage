@@ -27,7 +27,7 @@ header {
     width: 100%;
     min-height: auto;
     text-align: center;
-    background: linear-gradient(to bottom left, #9BE15D , #00E3Ae);
+    background: #fff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
